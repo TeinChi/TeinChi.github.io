@@ -1,0 +1,44 @@
+        .section {
+            min-height: 1000px;
+            overflow: hidden;
+            position: relative;
+            padding: 120px 10px 0px;
+/*            background: url(homeimage.jpg) no-repeat center center fixed;*/
+            background-size: cover;
+        } 
+
+/*        .section:nth-child(even) {
+            background-color: #ccc;
+        }
+*/  
+
+        #first{
+            background: url(jlandingpage.jpg) no-repeat center center fixed;
+            background-size: cover;
+        }
+
+        #home {
+            background: url(homelandingpage.jpg) no-repeat center center fixed;
+            background-size: cover;
+        }
+
+        #about {
+            background: url(landingpage2.jpg) no-repeat center center fixed;
+            background-size: cover;
+        }
+
+        #products {
+            background: url(ProductsStock.jpg) no-repeat center center fixed;
+            background-size: cover;
+        }        
+
+        #contact > div {
+            background-color: white;
+            padding: 20px;
+        }
+
+        #contact    {
+            background: url(contacthomeimage.jpg) no-repeat center center fixed;
+            background-size: cover;
+        }
+
